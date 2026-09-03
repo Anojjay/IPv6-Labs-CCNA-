@@ -27,3 +27,6 @@ Primary path:
 
 ```text
 PC1 → R1 → R3 → PC2
+
+Back up Path: 
+PC1 → R1 → R2 → R3 → PC2
